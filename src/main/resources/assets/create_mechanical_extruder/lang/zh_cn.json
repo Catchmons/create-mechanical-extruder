@@ -1,3 +1,9 @@
 {
   "block.create_mechanical_extruder.mechanical_extruder": "动力造石机",
-  "create.recipe.extruding": "造石配方"
+  "create.recipe.extruding": "动力造石",
+  "create_mechanical_extruder.ponder.extruder.header": "使用动力造石机生成方块",
+  "create_mechanical_extruder.ponder.extruder.text_1": "造石机使用旋转力生成方块",
+  "create_mechanical_extruder.ponder.extruder.text_2": "生成结果取决于侧面和下方的方块",
+  "create_mechanical_extruder.ponder.extruder.text_3": "生产完成后，你可以右击造石机以获取产物",
+  "create_mechanical_extruder.ponder.extruder.text_4": "也可以自动化提取产物"
+}
